@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="20%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/powershell_logo.svg" />
+    <a href="https://learn.microsoft.com/powershell/">
+      <img width="20%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/powershell_logo.svg" />
+    </a>
 </p>
 
 # Awesome [Powershell](https://en.wikipedia.org/wiki/PowerShell) Scripting [Language](https://en.wikipedia.org/wiki/Scripting_language) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
